@@ -9,3 +9,5 @@ Docker Commands:
 docker build -t imagebuildinginprocess .
 
 docker run -itp 4000:80 imagebuildinginprocess
+
+Data folder contains files uploaded to hdfs
